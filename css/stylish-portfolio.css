@@ -25,7 +25,7 @@ body {
 .text-vertical-center h1 {
     margin: 0;
     padding: 0;
-    font-size: 4.5em;
+    font-size: 5.0em;
     font-weight: 700;
     color: #fff;
     text-shadow: 2px 2px 4px #000000;
@@ -47,7 +47,7 @@ body {
 .btn-dark {
     border-radius: 0;
     color: #fff;
-    background-color: #999;
+    background-color: #E93E2E;
 }
 
 .btn-dark:hover,
